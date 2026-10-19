@@ -1,11 +1,14 @@
 # 万能下载器
 
-TAVOR 制作的 Windows 多平台视频与图片下载工具。当前正式版：**1.8**。
+
+本次更新：修复浅色界面的字体与按钮颜色，新增四平台统一链接入口。
+
+TAVOR 制作的 Windows 多平台视频与图片下载工具。当前正式版：**1.8.1**。
 
 ## 下载与安装
 
-- [下载 1.8 正式安装器](https://github.com/3322185897t-arch/universal-downloader-releases/releases/download/v1.8/Universal-Downloader-Windows-x64-Setup.exe)
-- [查看 1.8 完整更新说明](https://github.com/3322185897t-arch/universal-downloader-releases/releases/tag/v1.8)
+- [下载 1.8.1 正式安装器](https://github.com/3322185897t-arch/universal-downloader-releases/releases/download/v1.8.1/Universal-Downloader-Windows-x64-Setup.exe)
+- [查看 1.8.1 完整更新说明](https://github.com/3322185897t-arch/universal-downloader-releases/releases/tag/v1.8.1)
 - [始终前往最新正式版](https://github.com/3322185897t-arch/universal-downloader-releases/releases/latest)
 
 支持 Windows 10 / Windows 11 64 位系统。下载后双击安装器，按中文向导完成安装，无需自行安装 Python 或配置开发环境。
@@ -21,7 +24,7 @@ TAVOR 制作的 Windows 多平台视频与图片下载工具。当前正式版�
 - **统一操作**：选择保存位置、取消任务、查看任务状态、打开下载文件及保存目录。
 - **系统设置**：软件更新、隐私与登录状态管理、组件诊断及软件信息。
 
-## 1.8 更新重点
+## 1.8.1 更新重点
 
 - 升级小红书下载后端，适配新页面结构，修复视频与图文笔记解析失败、空 Map 数据导致解析异常的问题。
 - 改进 YouTube 登录状态读取、清晰度选择、工作进程通信及错误提示。
@@ -31,7 +34,7 @@ TAVOR 制作的 Windows 多平台视频与图片下载工具。当前正式版�
 - 优化首次使用引导、中文安装流程、页面布局和按钮状态，增加组件诊断与更新能力。
 - 加强诊断日志脱敏，避免登录凭据等敏感信息进入日志。
 
-详细功能、改进和修复清单见 [1.8 发布页](https://github.com/3322185897t-arch/universal-downloader-releases/releases/tag/v1.8)。
+详细功能、改进和修复清单见 [1.8.1 发布页](https://github.com/3322185897t-arch/universal-downloader-releases/releases/tag/v1.8.1)。
 
 ## 从旧版本升级
 
